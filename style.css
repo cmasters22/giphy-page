@@ -1,0 +1,28 @@
+.movie{
+	background-color: #98e6e6;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-style: none;
+	border-radius: 6px;
+	color: #fff;
+	
+}
+#buttonBox{
+	margin-left: 20px;
+	margin-top: 15px;
+}
+
+img{
+	margin-left: 23px;
+}
+h1{
+	font-size: 17px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+p{
+	font-size: 17px;
+	margin-left: 25px;
+	padding:5px;
+	
+}
